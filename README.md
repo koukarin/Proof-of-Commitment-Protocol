@@ -2,8 +2,9 @@
 
 First of all, let’s consider the Proof-of-Work (PoW) and Proof-of-Stake (PoS). These consensus play
 two key roles :</br>
-• Secure the blockchain
+• Secure the blockchain </br>
 • Participate to the emission and distribution of the coins / tokens.
+
 Of course, we, the ErgOne team, don’t have the pretension to beat the perfection of Ergo and its
 Autolykosv2 in terms of security and efficiency. But we have thought of an innovative way to mint
 and distribute tokens far away from hashrate (energy power) or staking (financial power).
