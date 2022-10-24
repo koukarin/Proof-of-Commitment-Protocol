@@ -1,7 +1,7 @@
 # Proof-of-Commitment-Protocol
 
 First of all, let’s consider the Proof-of-Work (PoW) and Proof-of-Stake (PoS). These consensus play
-two key roles :
+two key roles :</br>
 • Secure the blockchain
 • Participate to the emission and distribution of the coins / tokens.
 Of course, we, the ErgOne team, don’t have the pretension to beat the perfection of Ergo and its
