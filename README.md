@@ -8,14 +8,18 @@ two key roles :</br>
 Of course, we, the ErgOne team, don’t have the pretension to beat the perfection of Ergo and its
 Autolykosv2 in terms of security and efficiency. But we have thought of an innovative way to mint
 and distribute tokens far away from hashrate (energy power) or staking (financial power).
+
 As a Community Fan Token, we believe that commitment in a project or ideals is a new kind of
 power mixing time, personal energy and creativity. It was therefore normal for us to try to create a
 protocol based on this power.
+
 We have therefore designed the Proof-of-Commitment (PoC) to issue and distribute the ErgOne
 tokens in order to reward the most active and committed into the promotion and support of Ergo.
+
 Because we are confident that Ergo will establish itself in the blockchain ecosystem, we think the
 mission of ErgOne is intended to be evolving. That’s why we plan a way, in the long run, to permit
 the community to vote for one or more other projects to support.
+
 But it’s time now, to clarify what is the Proof-of-Commitment precisely.
 
 ## Genesis of the Proof-of-Commitment
