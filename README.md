@@ -63,23 +63,27 @@ will be integrated to the virality score.
 
 On Twitter, the virality score is the sum of retweets and likes divided by 10 for all the tweets
 published with #ergo during the previous month.
-<p align="center">viralityScore = retweets + likes / 10</p>
+<p align="center">viralityScore = retweets + (likes / 10)</p>
 On Youtube, the virality score is equal to the sum of likes and views divided by 5 for all the content
 published with #ergo during the previous month.
-<p align="center">viralityScore = likes + views / 5</p>
+<p align="center">viralityScore = likes + (views / 5)</p>
 We decided to NOT reward the members proportionally to their virality score. Indeed, on most
 social media platforms, 0.5% of content creators grab 99% of the revenues.
+
 We have decided to create 4 groups ; each composed by 25% of the members.
 The first group with the highest virality score will share 60% of the rewards.
 The second group with the virality score just underneath will share 25% of the rewards.
 The third group will share 10% of the rewards.
 The last group will share 5% of the rewards.
+
 Decreasing the rewards to the most famous influencers and sharing them by quarters, prevent
 everyone to think about earning ErgOne Tokens for a living. So, this kind of distribution permits to
 avoid cheaters who could be tempted to buy false views, likes… ErgOne aims to become an
 incentive for the community members and create organic growth.
+
 We don’t want content creators to shill Ergo (or other projects) for the rewards only but because
 they believe in it on the long run. ErgOne is owned by the community for the community.
+
 In the same time, we want to express an eternal gratitude to the 2 members who will have obtained
 the best virality score on Twitter and YouTube during the month. That’s why, we plan to engrave
 their commitment on the blockchain. So, in addition to their rewards, each of these 2 members will
@@ -89,31 +93,49 @@ soon, in the history of the other community projects.
 ## The Architects
 The challenge will be tough to keep cheaters and spammers away from the community because
 incentives can also attract bad intentions.
+
 Indeed, even with a fair distribution and a community spirit, some people will try to divert the
 project for their own profit.
-This threat can only be prevented by a group of passionate members involved in the community.
+
+This threat will be hampered by the algorithm design. But in reality, it can only be prevented by a group of passionate members involved in the community.
+
 This group has to build and protect the pillars and the core values of the projects that the members
-have decided to support (Ergo during the first years).
+have decided to support *(Ergo during the first years)*.
+
 ### Who will be the Architects ?
 We won’t be able to rely on them at the beginning of ErgOne. So, during the first months, the
 founders will be the architects.
+
 And month after month, the community members who will obtain the best virality score during a
 month and will receive an NFT will be part of the Architects.
+
 We should also involve the most committed members in the ErgOne economy. So the most
-important hodlers will be part of the Architect Team.
+important hodlers and those who bought rare NFTs will be part of the Architect Team.
+
 In this way, we will create an eclectic group culturally and economically staked. Such diversity will
 provide solid foundations for ErgOne in a long-term perspective.
+
 ### Roles of the Architects
 Being an Architect involves wide responsibilities. As just said before, they are in charge of
 protecting the core values of the community and tackling the cheaters and spammers.
+
 So, each of them will have to inspect some content that the ErgOne algorithm suspects of being
 spam.
+
 Indeed, the temptation could be important to cheat. And we have no doubt that some malicious
 members will try to insert #Ergo even if their content deals with angling.
-The members tagged as spammers will be banned two months (or more) from the reward
+
+The members tagged as spammers will be banned from the reward
 mechanism.
+
 ### Incentives for the Architects
 As a key role in the Proof-of-Commitment protocol, the Architects have to be also rewarded. When
 the decentralization of this kind of moderation will be effective, Architects will receive a part of the
 rewards.
-This portion of the monthly rewards will be defined later by the community
+
+This portion of the monthly rewards will be defined later by the community.
+
+## Long Term Governance
+Because we are confident in the Ergo’s capacity to become a Top 10 cryptocurrency, we think that,
+one day, Ergo won’t need ErgOne anymore. And then, the ErgOne Community will be willing to
+face new challenges supporting projects chosen through a democratic path thanks to the Proof-ofCommitment Protocol (PoCoP)
