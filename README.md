@@ -56,7 +56,8 @@ many other ways to support the protocol.
 
 The rewards will be directly linked to the virality score.
 
-## Virality Score
+## Virality Score and Individual Maximum Rewards.
+### Virality Score Calculation
 During the first years, the target will be to promote the cryptocurrency Ergo all around the world.
 So, only content from members community and with the hashtag Ergo (#ergo, #Ergo, #ERGO…)
 will be integrated to the virality score.
@@ -89,6 +90,52 @@ the best virality score on Twitter and YouTube during the month. That’s why, w
 their commitment on the blockchain. So, in addition to their rewards, each of these 2 members will
 receive one priceless NFT. Through this gift, they will have a place in the history of Ergo… and
 soon, in the history of the other community projects.
+
+But, because we want a fair distribution of the rewards, only to people who really care about the supported project, we have to face two obstacles : Spammers and bots.
+
+### Tackle Spammers
+We really want to avoid the community being encouraged to over-tweetwith the # supported (e.g. #ergo).
+
+For this reason, we’ve decided to count tweets which author present a normal activity. So if he/she tweets more than 28 times a day, it will be considered as a spam.
+
+Obviously, we know that hardcore tweeters naturally exist. That’s why we won’t punish people who tweet more than 28 times a day. But some of these tweets may not be counted.
+
+### Tackle Bots
+Twitter and YouTube host some bots that can produce misleading results. Some technical tools already exist to detect bots.
+
+Unfortunately, they’re not absolutely perfect and the Proof-of-Commitment Protocol can’t be at the mercy of a company that finds a way to develop undetectable bots.
+
+Because we don’t want to enter a technological race, we have decided to design the protocol in order to make bots unprofitable.
+Firstly, the distribution is not proportional to the virality score. For e.g.: the 25% most active on twitter will share 60% of the monthly rewards (the first year: 5000 ErgOne).
+
+Then, users have no idea how many likes, retweets or views are needed to be present in this group. If they underestimate the required engagements, they can take place in the second group that share 25% of the monthly rewards. If they overestimate the required engagements, they will overpay a social media bot company.
+
+Now, let’s imagine ErgOne become rare and precious, and its value makes profitable to overpay a bot company.
+
+We have added a mechanism to avoid that phenomenon.
+
+Indeed, we plan to share 5000 ErgOne during the first two years. Therefore, the 25% most active users will share 3000 ErgOne (60% of 5000). Cheaters could take profit just using bots in the individual rewards are important.
+
+So we have implemented a limit: the Individual Maximum Rewards.
+
+Here is the calculation of this limit:
+$PPE = pay per engagement *(average price of bot companies / 2 => today: 0.01$ / engagement)*
+$E_1 = ErgOne price *(ErgOne / $: value from Spectrum)*
+$VS_m = the virality score minimum for being in the first group (25% most active). We consider the worst case: the cheater had a maximum of luck and paid a bot company to have exactly the minimum amount of engagement for a maximum amount of reward. If he is profitable, all other cheaters could also be profitable.
+
+<p center="align">$IndividualMaximumRewards=VS_m*PPE*E_1</p>
+
+Then, the Individual Maximum Rewards represents the individual rewards acceptable for being sure that no cheater could have been profitable.
+
+- if Natural Rewards of the 25% most active < Individual Maximum Rewards: rewards will be distributed following the process explain in the “Incentives” paragraph.
+
+- if Natural Rewards of the 25% most active > Maximum Rewards:
+	- The first group (the 25% most active people) will earn: the Individual Maximum Rewards.
+	- The second group will earn: 42% of the Individual Maximum Rewards.
+	- The thirds group will earn: 25% of the Individual Maximum Rewards.
+	- The last group will earn: 8% of the Individual Maximum Rewards.
+  
+With this complex phenomenon, bot uses will never be profitable.
 
 ## The Architects
 The challenge will be tough to keep cheaters and spammers away from the community because
