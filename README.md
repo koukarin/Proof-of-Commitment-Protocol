@@ -114,7 +114,7 @@ Now, let’s imagine ErgOne become rare and precious, and its value makes profit
 
 We have added a mechanism to avoid that phenomenon.
 
-Indeed, we plan to share 5000 ErgOne during the first two years. Therefore, the 25% most active users will share 3000 ErgOne (60% of 5000). Cheaters could take profit just using bots in the individual rewards are important.
+Indeed, we plan to share 5000 ErgOne during the first two years. Therefore, the 25% most active users will share 3000 ErgOne (60% of 5000). Cheaters could take profit just using bots if the individual rewards are important.
 
 So we have implemented a limit: the Individual Maximum Rewards.
 
@@ -130,9 +130,9 @@ VS = the virality score minimum for being in the first group (25% most active). 
 
 Then, the Individual Maximum Rewards represents the individual rewards acceptable for being sure that no cheater could have been profitable.
 
-- if Natural Rewards of the 25% most active < Individual Maximum Rewards: rewards will be distributed following the process explain in the “Incentives” paragraph.
+- if the Natural Rewards of the 25% most active < Individual Maximum Rewards: rewards will be distributed following the process explain in the “Incentives” paragraph.
 
-- if Natural Rewards of the 25% most active > Maximum Rewards:
+- if the Natural Rewards of the 25% most active > Maximum Rewards:
 	- The first group (the 25% most active people) will earn: the Individual Maximum Rewards.
 	- The second group will earn: 42% of the Individual Maximum Rewards.
 	- The thirds group will earn: 25% of the Individual Maximum Rewards.
