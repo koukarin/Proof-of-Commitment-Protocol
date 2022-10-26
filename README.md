@@ -122,11 +122,11 @@ Here is the calculation of this limit:
 
 $PPE = pay per engagement *(average price of bot companies / 2 => today: 0.01$ / engagement)*
 
-$E_1 = ErgOne price *(ErgOne / $: value from Spectrum)*
+Erg1 = ErgOne price *(ErgOne / $: value from Spectrum)*
 
-$VS_m = the virality score minimum for being in the first group (25% most active). We consider the worst case: the cheater had a maximum of luck and paid a bot company to have exactly the minimum amount of engagement for a maximum amount of reward. If he is profitable, all other cheaters could also be profitable.
+VS = the virality score minimum for being in the first group (25% most active). We consider the worst case: the cheater had a maximum of luck and paid a bot company to have exactly the minimum amount of engagement for a maximum amount of reward. If he is profitable, all other cheaters could also be profitable.
 
-<p>$IndividualMaximumRewards=VS_m*PPE*E_1</p>
+<p align="center">IndividualMaximumRewards = VSm * PPE *Erg1</p>
 
 Then, the Individual Maximum Rewards represents the individual rewards acceptable for being sure that no cheater could have been profitable.
 
