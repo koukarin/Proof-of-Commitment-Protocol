@@ -120,7 +120,7 @@ So we have implemented a limit: the Individual Maximum Rewards.
 
 Here is the calculation of this limit:
 
-$PPE = pay per engagement *(average price of bot companies / 2 => today: 0.01$ / engagement)*
+PPE = pay per engagement *(average price of bot companies / 2 => today: 0.01$ / engagement)*
 
 Erg1 = ErgOne price *(ErgOne / $: value from Spectrum)*
 
