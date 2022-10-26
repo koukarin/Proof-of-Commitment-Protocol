@@ -138,7 +138,7 @@ Then, the Individual Maximum Rewards represents the individual rewards acceptabl
 	- The thirds group will earn: 25% of the Individual Maximum Rewards.
 	- The last group will earn: 8% of the Individual Maximum Rewards.
   
-With this complex phenomenon, bot uses will never be profitable.
+With this mechanisms, bot uses will never be profitable.
 
 ## The Architects
 The challenge will be tough to keep cheaters and spammers away from the community because
