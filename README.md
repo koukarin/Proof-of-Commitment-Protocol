@@ -94,7 +94,7 @@ soon, in the history of the other community projects.
 But, because we want a fair distribution of the rewards, only to people who really care about the supported project, we have to face two obstacles : Spammers and bots.
 
 ### Tackle Spammers
-We really want to avoid the community being encouraged to over-tweetwith the # supported (e.g. #ergo).
+We really want to avoid the community being encouraged to over-tweetwith the hashtag supported (e.g. #ergo).
 
 For this reason, we’ve decided to count tweets which author present a normal activity. So if he/she tweets more than 28 times a day, it will be considered as a spam.
 
