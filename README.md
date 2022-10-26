@@ -126,7 +126,7 @@ Erg1 = ErgOne price *(ErgOne / $: value from Spectrum)*
 
 VS = the virality score minimum for being in the first group (25% most active). We consider the worst case: the cheater had a maximum of luck and paid a bot company to have exactly the minimum amount of engagement for a maximum amount of reward. If he is profitable, all other cheaters could also be profitable.
 
-<p align="center">IndividualMaximumRewards = VSm * PPE *Erg1</p>
+<p align="center">Individual Maximum Rewards = VSm * PPE *Erg1</p>
 
 Then, the Individual Maximum Rewards represents the individual rewards acceptable for being sure that no cheater could have been profitable.
 
