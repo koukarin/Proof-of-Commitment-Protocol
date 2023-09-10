@@ -57,7 +57,7 @@ If he creates interested content linked with Ergo (Blog Posts, Youtube Videos, T
 
 He can also attributes 3 points to content submitted by other users. 
 
-### Submiting a content to the community
+### Submitting a content to the community
 
 It’s is possible to submit as much contents as user’s Voting Power.
 
