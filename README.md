@@ -42,7 +42,7 @@ Then, a Voting Power is associated to this address
 
 The Voting Power is directly linked to the daily ErgOne balance average of this address during the previous month. (details here: [https://app.ergone.io/rankmycommitment](https://ergone.herokuapp.com/rankmycommitment))
 
-To let users interact with the PoCoP during the first month ⇒ we set by default a Voting Power = 3
+To let users interact with the PoCoP during the first month ⇒ we set by default a Voting Power = 1
 
 Your Voting Power define:
 
@@ -53,7 +53,7 @@ For e.g:
 
 This month, Bob has a Voting Power = 3.
 
-If he creates interested content linked with Ergo (Blog Posts, Youtube Videos, Tweets, Reddit Posts, Instagram Posts, TikTok videos…), he can submit a maximum of **3 links of his content** during the month.
+If he creates interesting content linked with Ergo (Blog Posts, Youtube Videos, Tweets, Reddit Posts, Instagram Posts, TikTok videos…), he can submit a maximum of **3 links of his content** during the month.
 
 He can also attributes 3 points to content submitted by other users. 
 
@@ -61,17 +61,17 @@ He can also attributes 3 points to content submitted by other users.
 
 It’s is possible to submit as much contents as user’s Voting Power.
 
-In the PoCoP web page: page_link, user are able to share his content links.
+In the PoCoP web page: [Voting Page](https://app.ergone.io/voting), a user is able to share his content links.
 
-When he submit a link, the protocol verify if a proof that the user is the creator of this content exists.
+When he submits a link, the protocol verifies if a proof that the user is the creator of this content exists.
 
-Practically, it analyses user’s content page / post / video description… and if his twitter handle or  Ergo Address is found, the protocol considers the user is well the creator.
+Practically, we analyse user’s content page / post / video description… and if his twitter handle or Ergo Address is found, the protocol considers the user is the creator.
 
 Once a content (verified or not) is submitted, it appears in the voting page and all the PoCoP users can vote for it.
 
 ### Voting for a content
 
-From the Voting Page: page_link, it is possible to discover all the content created by the community and published whatever the platform.
+From the Voting Page: [Voting Page](https://app.ergone.io/voting), it is possible to discover all the contents created by the community and published whatever the platform is.
 
 Users are able to vote for their preferred contents. They can attributes as much points as their Voting Power on one or several contents.
 
@@ -84,6 +84,7 @@ With a Voting Power = 3, Bob can give:
 - 1 point to 3 different contents.
 
 A user can’t vote for a contact he has submitted.
+He can modify his choices until the end of the Voting Epoch.
 
 ### Voting Epoch
 
@@ -93,7 +94,7 @@ Users can submit content as long as they have some Voting Power.
 
 The PoCoP Voting Page only displays the contents whose users can vote for.
 
-To give contents published at the end of the month the same chance to win, users can vote until the 5th day of the following month.
+To give contents published at the end of the month the same chance to win, users can vote until the 4th day of the following month.
 
 for e.g:
 
