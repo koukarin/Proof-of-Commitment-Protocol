@@ -166,10 +166,6 @@ As a key role in the Proof-of-Commitment protocol, the Architects have to be als
 This portion of the monthly rewards will be defined later by the community.
 
 ## Long Term Governance
-
-Because we are confident in the Ergo’s capacity to become a Top 10 cryptocurrency, we think that, one day, Ergo won’t need ErgOne anymore. And then, the ErgOne Community will be willing to face new challenges supporting projects chosen through a democratic path thanks to the Proof-ofCommitment Protocol (PoCoP)
-
-## Long Term Governance
 Because we are confident in the Ergo’s capacity to become a Top 10 cryptocurrency, we think that,
 one day, Ergo won’t need ErgOne anymore. And then, the ErgOne Community will be willing to
 face new challenges supporting projects chosen through a democratic path thanks to the Proof-ofCommitment Protocol (PoCoP)
