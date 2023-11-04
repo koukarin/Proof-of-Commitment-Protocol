@@ -28,7 +28,7 @@ The ErgOne token is dedicated to push the community members to highlight Ergo bu
 
 We will allocate this rewards monthly and on the basis of a virality score of each content creator.
 
-We will share 5000 ErgOne every month and we will divide this amount by 2 every two years. So, halving happens every two years. December 2022: 5000 ErgOne shared per month and per platform December 2024: 2500 ErgOne shared per month and per platform December 2026: 1250 ErgOne shared per month and per platform … until there’s no more ErgOne to distribute.
+The first year, we share 5000 ErgOne every month and every year, this amount will be divided by 2. So, it's a yearly halving. December 2022: 5000 ErgOne shared per month. December 2023: 2500 ErgOne shared per month. December 2024: 1250 ErgOne shared per month… until there’s no more ErgOne to distribute.
 
 The rewards will be directly linked to the virality score.
 
